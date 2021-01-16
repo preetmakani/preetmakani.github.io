@@ -53,9 +53,23 @@ p {
   line-height: 1.5;
   color: #5b5b5b;
 }
+li{
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #5b5b5b;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
+  letter-spacing: -1px;
+}
+p{
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+li{
+  font-weight: normal;
   letter-spacing: -1px;
 }
 
@@ -78,6 +92,23 @@ h3 {
 h3,
 b, strong {
   font-weight: bold;
+}
+
+p {
+  color: #696969;
+}
+
+p,
+b, strong {
+  font-weight: normal;
+}
+li {
+  color: #696969;
+}
+
+li,
+b, strong {
+  font-weight: normal;
 }
 
 .custom-btn {
@@ -308,7 +339,7 @@ b, strong {
 }
 .dark-mode .feature-card .uil,
 .dark-mode .navbar-light .navbar-brand,
-.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6,
+.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6, .dark-mode p, .dark-mode li,
 .dark-mode .color-mode {
   color: #ffffff;
 }
