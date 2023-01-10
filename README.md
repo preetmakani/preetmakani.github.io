@@ -6,5 +6,6 @@ I'm Preet Makani
 
 ### https://preetmakani.github.io/
 
-![webstie](https://user-images.githubusercontent.com/40505135/105565474-f0ffbe80-5cf4-11eb-9180-1062925ba575.png)
+![image](https://user-images.githubusercontent.com/40505135/211682076-6c2cfcbe-e741-42b2-a4b5-fffa5f1052ce.png)
+
 
